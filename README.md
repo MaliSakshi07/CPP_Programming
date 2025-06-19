@@ -32,7 +32,3 @@ I am learning C++ at **Fork Infosystem Classes**, located in **Karad**.
 - [GeeksforGeeks C++](https://www.geeksforgeeks.org/c-plus-plus/)
 - [The C++ Programming Language by Bjarne Stroustrup](https://www.stroustrup.com/books.html)
 
-
-
----
-🚀 Happy Coding!
