@@ -1,7 +1,6 @@
 using namespace std;
 #include<iostream>
 #include<conio.h>
-
 void Address(int*);
 
 int main()
