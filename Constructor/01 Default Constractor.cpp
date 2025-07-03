@@ -32,7 +32,6 @@ class Circle
 int main()
 {
     Circle obj;
-
     obj.Rad = 2.5;
     obj.Area_Of_Circle();
 
