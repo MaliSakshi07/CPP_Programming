@@ -13,12 +13,14 @@ class Circle
         Rad = 0.0;
         Area = 0.0;
     }
+
     Circle(float R)
     {
         cout<<"\nCircle :: Parameterized Constructor";
         Rad = R;
         Area = 0.0;
     }
+
     void Area_Of_Circle()
     {
         float PI = 3.14;
@@ -27,6 +29,7 @@ class Circle
 
         cout<<"\nCircle :: Area of circle";
     }
+
     ~Circle()
     {
         cout<<"\nCircle :: Destructor";
