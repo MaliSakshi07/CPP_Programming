@@ -15,6 +15,7 @@ class calc
         N1=N2=Sum=Sub=0;
         cout<<"\ncalc :: Default Constructor";
     }
+
     calc(int Num1,int Num2)
     {
         N1 = Num1;
@@ -22,6 +23,7 @@ class calc
         Sum = Sum = 0;
         cout<<"\ncalc :: Parameterized Constructor";
     }
+
     calc(calc &Ref)
     {
         this->N1 = Ref.N1;
@@ -32,19 +34,23 @@ class calc
 
         cout<<"\ncalc :: Copy Constructor";
     }
+
     ~calc()
     {
         cout<<"\nclac :: Destructor"<<Sum;
     }
+
     void Set_Values()
     {
         cout<<"\nEnter Two Values :";
         cin>>N1>>N2;
     }
+
     void Addition()
     {
         Sum = N1 + N2;
     }
+
     void Subtraction()
     {
         Sub = N1 - N2;
