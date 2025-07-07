@@ -17,6 +17,4 @@ int main()
     }
      cout<<"\n"<<b;
 
-
-
 }
