@@ -20,6 +20,7 @@ class karad
         cout<<"\n Karad :: fun()"<<endl;
     }
 };
+
 class Pune : public karad
 {
     int x,y;
