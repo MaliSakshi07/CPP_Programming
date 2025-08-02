@@ -23,6 +23,7 @@ int main()
 
     obj.RectArea();
     cout<<"Area of Rectangle : "<<obj.Area<<endl;
+    
     getch();
     return 0;
 }
