@@ -9,6 +9,7 @@ int main()
 
     c=1;
     b=0;
+    
     for(int i=1;i<=10;i++)
     {
         c=(i*a);
@@ -17,5 +18,4 @@ int main()
     }
     
      cout<<"\n"<<b;
-
 }
