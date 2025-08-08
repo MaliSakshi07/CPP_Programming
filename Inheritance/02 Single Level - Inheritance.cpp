@@ -15,6 +15,7 @@ int main()
         b=c+i;
 
     }
+    
      cout<<"\n"<<b;
 
 }
