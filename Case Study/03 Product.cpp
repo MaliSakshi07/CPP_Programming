@@ -64,8 +64,10 @@ void Product :: Display_Product_Details()
 
     cout<<"Product Id :"<<PId<<endl;
     cout<<"Product Name :"<<PName<<endl;
+    
     cout<<"Product Purchase Price :"<<PPPrice<<endl;
     cout<<"Product Sales Price :"<<PSPrice<<endl;
+    
     cout<<"Product Current Stock :"<<C_Stock<<endl;
 }
 
