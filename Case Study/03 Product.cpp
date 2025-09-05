@@ -37,6 +37,7 @@ Product :: Product(int id, char Nm[],float PPrice,float SPrice,int Cstock)
     PPPrice = PPrice;
     PSPrice = SPrice;
     C_Stock = Cstock;
+    
     cout<<"\nIn Parameterized Constructor..."<<endl;
 }
 Product :: ~Product()
