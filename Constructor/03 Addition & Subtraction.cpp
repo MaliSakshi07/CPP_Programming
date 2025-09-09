@@ -9,6 +9,7 @@ class calc
 
     public:
         int Sum , Sub;
+
     calc()
     {
         N1=N2=Sum=Sub=0;
